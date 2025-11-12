@@ -1,6 +1,6 @@
 {
-  "name": "quiz",
-  "compatibility_date": "2025-11-06",
+  "name": "quizApp",
+  "compatibility_date": "2025-11-12",
   "assets": {
     "directory": "./public"
   }
